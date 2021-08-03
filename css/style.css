@@ -721,8 +721,6 @@ a.navbar-brand img {
 }
 
 .tab_menu ul li {
-    width: 14.25%;
-    float: left;
     padding: 25px 0;
     display: flex;
     justify-content: center;
